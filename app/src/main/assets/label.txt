@@ -1,0 +1,18 @@
+0 Ibéris amer
+1 Blé
+2 Molène
+3 Hyope
+4 Carotte
+5 Genévrier
+6 Achillée
+7 Fenouil
+8 Livèche
+9 Haricot
+10 Fenugrec
+11 Muguet
+12 Carotte
+13 Ail(Garlic)
+14 Ananas
+15 Argan
+16 Jasmin blanc
+17 Ginseng
